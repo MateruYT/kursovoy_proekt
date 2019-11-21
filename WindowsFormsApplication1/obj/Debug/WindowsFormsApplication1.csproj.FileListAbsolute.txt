@@ -1,0 +1,76 @@
+C:\Documents and Settings\Admin\Рабочий стол\C#\Kurs\G\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Admin\Рабочий стол\C#\Kurs\G\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Admin\Рабочий стол\C#\Kurs\G\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\C#\Kurs\G\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Admin\Рабочий стол\C#\Kurs\G\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\C#\Kurs\G\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Рабочий стол\C#\Kurs\G\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Admin\Рабочий стол\C#\Kurs\G\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Курсач\GRS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Курсач\GRS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Курсач\GRS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\Курсач\GRS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Курсач\GRS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Курсач\GRS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Курсач\GRS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Курсач\GRS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Admin\Рабочий стол\C#\Накидал Ъля\GRS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\C#\Накидал Ъля\GRS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Admin\Рабочий стол\C#\Накидал Ъля\GRS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.NN.resources
+C:\Documents and Settings\Admin\Рабочий стол\C#\Накидал Ъля\GRS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\C#\Накидал Ъля\GRS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Рабочий стол\C#\Накидал Ъля\GRS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Calc.resources
+C:\Documents and Settings\Admin\Рабочий стол\C#\Накидал Ъля\GRS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.S.resources
+C:\Documents and Settings\Admin\Рабочий стол\C#\Накидал Ъля\GRS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Loader.resources
+C:\Documents and Settings\Admin\Рабочий стол\C#\Накидал Ъля\GRS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\tree.exe
+C:\Documents and Settings\Admin\Рабочий стол\C#\Накидал Ъля\GRS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\tree.pdb
+C:\Documents and Settings\Admin\Рабочий стол\C#\Накидал Ъля\GRS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\tree.exe
+C:\Documents and Settings\Admin\Рабочий стол\C#\Накидал Ъля\GRS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\tree.pdb
+D:\Коропа Курсачи\Т-791\Гресь Григорий\Binary Tree\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\tree.pdb
+D:\Коропа Курсачи\Т-791\Гресь Григорий\Binary Tree\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\tree.exe
+D:\Коропа Курсачи\Т-791\Гресь Григорий\Binary Tree\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\tree.pdb
+D:\Коропа Курсачи\Т-791\Гресь Григорий\Binary Tree\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Коропа Курсачи\Т-791\Гресь Григорий\Binary Tree\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Calc.resources
+D:\Коропа Курсачи\Т-791\Гресь Григорий\Binary Tree\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Коропа Курсачи\Т-791\Гресь Григорий\Binary Tree\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Loader.resources
+D:\Коропа Курсачи\Т-791\Гресь Григорий\Binary Tree\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.NN.resources
+D:\Коропа Курсачи\Т-791\Гресь Григорий\Binary Tree\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Коропа Курсачи\Т-791\Гресь Григорий\Binary Tree\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.S.resources
+D:\Коропа Курсачи\Т-791\Гресь Григорий\Binary Tree\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Коропа Курсачи\Т-791\Гресь Григорий\Binary Tree\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\tree.exe
+D:\Мои дипломники\Курсовые\kurs\Т-791\Гресь Григорий\Binary Tree\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\tree.exe
+D:\Мои дипломники\Курсовые\kurs\Т-791\Гресь Григорий\Binary Tree\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\tree.pdb
+D:\Мои дипломники\Курсовые\kurs\Т-791\Гресь Григорий\Binary Tree\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\tree.exe
+D:\Мои дипломники\Курсовые\kurs\Т-791\Гресь Григорий\Binary Tree\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\tree.pdb
+D:\Мои дипломники\Курсовые\kurs\Т-791\Гресь Григорий\Binary Tree\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Мои дипломники\Курсовые\kurs\Т-791\Гресь Григорий\Binary Tree\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Calc.resources
+D:\Мои дипломники\Курсовые\kurs\Т-791\Гресь Григорий\Binary Tree\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Мои дипломники\Курсовые\kurs\Т-791\Гресь Григорий\Binary Tree\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Loader.resources
+D:\Мои дипломники\Курсовые\kurs\Т-791\Гресь Григорий\Binary Tree\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.NN.resources
+D:\Мои дипломники\Курсовые\kurs\Т-791\Гресь Григорий\Binary Tree\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Мои дипломники\Курсовые\kurs\Т-791\Гресь Григорий\Binary Tree\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.S.resources
+D:\Мои дипломники\Курсовые\kurs\Т-791\Гресь Григорий\Binary Tree\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Мои дипломники\Курсовые\kurs\Т-791\Гресь Григорий\Binary Tree\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\other\C sharp\Курсовая\Моделированиe различных алгоритмов на бинарном дереве (документация)\WindowsFormsApplication1\obj\Debug\tree.exe
+D:\other\C sharp\Курсовая\Моделированиe различных алгоритмов на бинарном дереве (документация)\WindowsFormsApplication1\obj\Debug\tree.pdb
+D:\other\C sharp\Курсовая\Моделированиe различных алгоритмов на бинарном дереве (документация)\WindowsFormsApplication1\bin\Debug\tree.exe
+D:\other\C sharp\Курсовая\Моделированиe различных алгоритмов на бинарном дереве (документация)\WindowsFormsApplication1\bin\Debug\tree.pdb
+D:\other\C sharp\Курсовая\Моделированиe различных алгоритмов на бинарном дереве (документация)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Calc.resources
+D:\other\C sharp\Курсовая\Моделированиe различных алгоритмов на бинарном дереве (документация)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\other\C sharp\Курсовая\Моделированиe различных алгоритмов на бинарном дереве (документация)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Loader.resources
+D:\other\C sharp\Курсовая\Моделированиe различных алгоритмов на бинарном дереве (документация)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.NN.resources
+D:\other\C sharp\Курсовая\Моделированиe различных алгоритмов на бинарном дереве (документация)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\other\C sharp\Курсовая\Моделированиe различных алгоритмов на бинарном дереве (документация)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.S.resources
+D:\other\C sharp\Курсовая\Моделированиe различных алгоритмов на бинарном дереве (документация)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Курсач\Моделированиe различных алгоритмов на бинарном дереве (документация)\WindowsFormsApplication1\bin\Debug\tree.exe
+D:\Курсач\Моделированиe различных алгоритмов на бинарном дереве (документация)\WindowsFormsApplication1\bin\Debug\tree.pdb
+D:\Курсач\Моделированиe различных алгоритмов на бинарном дереве (документация)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+D:\Курсач\Моделированиe различных алгоритмов на бинарном дереве (документация)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Calc.resources
+D:\Курсач\Моделированиe различных алгоритмов на бинарном дереве (документация)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Курсач\Моделированиe различных алгоритмов на бинарном дереве (документация)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Loader.resources
+D:\Курсач\Моделированиe различных алгоритмов на бинарном дереве (документация)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.NN.resources
+D:\Курсач\Моделированиe различных алгоритмов на бинарном дереве (документация)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Курсач\Моделированиe различных алгоритмов на бинарном дереве (документация)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.S.resources
+D:\Курсач\Моделированиe различных алгоритмов на бинарном дереве (документация)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\Курсач\Моделированиe различных алгоритмов на бинарном дереве (документация)\WindowsFormsApplication1\obj\Debug\tree.exe
+D:\Курсач\Моделированиe различных алгоритмов на бинарном дереве (документация)\WindowsFormsApplication1\obj\Debug\tree.pdb
